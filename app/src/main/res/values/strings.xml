@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string-array name="datos">
+        <item>Dato 1</item>
+        <item>Dato 1</item>
+        <item>Dato 1</item>
+        <item>Dato 1</item>
+        <item>Dato 1</item>
+        <item>Dato 1</item>
+        <item>Dato 1</item>
+    </string-array>
+</resources>
